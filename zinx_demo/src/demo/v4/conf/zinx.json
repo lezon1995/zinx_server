@@ -1,0 +1,9 @@
+{
+  "Host": "127.0.0.1",
+  "Port": 8999,
+  "ServerName": "ZinxServer V0.4",
+  "Version": "V0.4",
+  "MaxConn": 1000,
+  "BufferSize": 2048,
+  "WorkerPoolSize": 10
+}

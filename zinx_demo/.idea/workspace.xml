@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a8b845-00f8-40bf-bbf4-28cd6b7c985d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zinx_demo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.13.5" />
+  <component name="ProjectId" id="1VVDBCxIGUPwSFggV5wGtFCry7M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/demo/v9" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demo/v9" />
+      <recent name="$PROJECT_DIR$/src/demo/v8" />
+      <recent name="$PROJECT_DIR$/src/demo/v6" />
+      <recent name="$PROJECT_DIR$/src/demo/v5" />
+      <recent name="$PROJECT_DIR$/src/demo/v4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/demo/v1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo/v9 (1)">
+    <configuration name="go build demo/v6 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="zinx_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/demo/v6/client.go" />
+      <package value="demo/v6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo/v8 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="zinx_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/demo/v8/client.go" />
+      <package value="demo/v8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo/v8" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="zinx_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/demo/v8/demo.go" />
+      <package value="demo/v8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo/v9 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="zinx_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/demo/v9/client.go" />
+      <package value="demo/v9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo/v9" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="zinx_demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/demo/v9/demo.go" />
+      <package value="demo/v9" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build demo/v6 (1)" />
+      <item itemvalue="Go Build.go build demo/v8" />
+      <item itemvalue="Go Build.go build demo/v8 (1)" />
+      <item itemvalue="Go Build.go build demo/v9" />
+      <item itemvalue="Go Build.go build demo/v9 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo/v9 (1)" />
+        <item itemvalue="Go Build.go build demo/v9" />
+        <item itemvalue="Go Build.go build demo/v8 (1)" />
+        <item itemvalue="Go Build.go build demo/v8" />
+        <item itemvalue="Go Build.go build demo/v6 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577438070186">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="184" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577438070186" />
+    <state x="533" y="-817" key="#com.intellij.ide.util.MemberChooser" timestamp="1577697826004">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="533" y="-817" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577697826004" />
+    <state x="437" y="-904" key="#go_build_demo/v2" timestamp="1577349645908">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v2/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577349645908" />
+    <state x="437" y="-904" key="#go_build_demo/v2_(1)" timestamp="1577349655417">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v2_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577349655416" />
+    <state x="437" y="-904" key="#go_build_demo/v3" timestamp="1577354711637">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v3/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577354711637" />
+    <state x="437" y="-904" key="#go_build_demo/v3_(1)" timestamp="1577354727990">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v3_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577354727990" />
+    <state x="437" y="-904" key="#go_build_demo/v4" timestamp="1577364142358">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v4/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577364142358" />
+    <state x="437" y="-904" key="#go_build_demo/v5" timestamp="1577430157632">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v5/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577430157632" />
+    <state x="437" y="-904" key="#go_build_demo/v5_(1)" timestamp="1577430166944">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v5_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577430166944" />
+    <state x="437" y="-904" key="#go_build_demo/v6" timestamp="1577433713288">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v6/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577433713288" />
+    <state x="437" y="-904" key="#go_build_demo/v6_(1)" timestamp="1577433724322">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v6_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577433724322" />
+    <state x="437" y="-904" key="#go_build_demo/v6_(2)" timestamp="1577437857075">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v6_(2)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577437857075" />
+    <state x="437" y="-904" key="#go_build_demo/v8" timestamp="1577695575910">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v8/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577695575910" />
+    <state x="437" y="-904" key="#go_build_demo/v8_(1)" timestamp="1577695600749">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v8_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577695600749" />
+    <state x="437" y="-904" key="#go_build_demo/v9" timestamp="1577711456046">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v9/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711456046" />
+    <state x="437" y="-904" key="#go_build_demo/v9_(1)" timestamp="1577711468535">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="437" y="-904" key="#go_build_demo/v9_(1)/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711468535" />
+    <state x="610" y="-831" width="638" height="581" key="#xdebugger.evaluate" timestamp="1577711706843">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="610" y="-831" width="638" height="581" key="#xdebugger.evaluate/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711706843" />
+    <state width="779" height="466" key="DebuggerActiveHint" timestamp="1577711811795">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="779" height="466" key="DebuggerActiveHint/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711811795" />
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom" timestamp="1577762053518">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577762053518" />
+    <state width="1878" height="234" key="GridCell.Tab.0.center" timestamp="1577762053517">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.center/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577762053517" />
+    <state width="1878" height="234" key="GridCell.Tab.0.left" timestamp="1577762053516">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.left/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577762053516" />
+    <state width="1878" height="234" key="GridCell.Tab.0.right" timestamp="1577762053518">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="234" key="GridCell.Tab.0.right/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577762053518" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1577711884976">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711884976" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1577711884975">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711884975" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1577711884975">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711884975" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1577711884976">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577711884976" />
+    <state x="294" y="-931" key="SettingsEditor" timestamp="1577687010183">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="294" y="-931" key="SettingsEditor/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577687010183" />
+    <state x="357" y="-930" width="639" height="714" key="find.popup" timestamp="1577761991882">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="357" y="-930" width="639" height="714" key="find.popup/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577761991882" />
+    <state x="385" y="-839" key="search.everywhere.popup" timestamp="1577677794599">
+      <screen x="-240" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="385" y="-839" key="search.everywhere.popup/0.0.1440.900/-240.-1080.1920.1080@-240.-1080.1920.1080" timestamp="1577677794599" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/zinx/util/config.go</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/zinx/zimpl/server.go</url>
+          <line>111</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/zinx/util/config.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
